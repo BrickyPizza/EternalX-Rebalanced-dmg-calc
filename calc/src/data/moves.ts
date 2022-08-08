@@ -2054,40 +2054,6 @@ const EX_REB_PATCH = {
     type: 'Grass',
     willCrit: true,
   },
-  Strength: {
-    bp: 100,
-    type: 'Rock',
-  },
-  Submission: {bp: 90,},
-  Chatter: { bp: 90 },
-  'Shadow Punch': { bp: 80 },
-  'Arm Thrust': { bp: 25 },
-  'Spike Cannon': { bp: 25 },
-  Absorb: { bp: 40 },
-  'Mega Drain': { bp: 60 },
-  'Mystical Fire': { bp: 85 },
-  'Parabolic Charge': {
-    bp: 90,
-    drain: [1, 4],
-  },
-  'Draining Kiss': {
-    bp: 75,
-    drain: [1, 2],
-  },
-  'Fell Stinger': { bp: 70 },
-  'Freeze-Dry': { bp: 95 },
-  'Steel Wing': { bp: 90 },
-  Explosion: {
-    willCrit: true,
-  },
-  'Self-Destruct': {
-    willCrit: true,
-  },
-  'Needle Arm': { bp: 90 },
-  'Cross Poison': { bp: 90 },
-  'Power Gem': { bp: 90 },
-  'Triple Kick': { bp: 20 },
-  'Disarming Voice': { bp: 60 },
 };
 const XY: {[name: string]: MoveData} = extend(true, {}, BW, XY_PATCH, EX_REB_PATCH);
 
