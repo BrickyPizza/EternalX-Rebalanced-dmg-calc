@@ -90,6 +90,95 @@ var SETDEX_XY = {
             ]
         }
     },
-	
+	"Amaura": {
+        "Leader Grant": {
+            "level": 30,
+			"ability": "Refrigerate",
+			"item": "Focus Sash",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Reflect",
+                "Light Screen",
+                "Round",
+				"Discharge"
+            ]
+        }
+    },
+	"Anorith": {
+        "Leader Grant": {
+            "level": 30,
+			"ability": "Swift Swim",
+			"item": "Weakness Policy",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Rock Tomb",
+                "X-Scissor",
+                "Swords Dance",
+				"Aqua Jet"
+            ]
+        }
+    },
+	"Lileep": {
+        "Leader Grant": {
+            "level": 30,
+			"ability": "Storm Drain",
+			"item": "Sitrus Berry",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Giga Drain",
+                "Brine",
+                "Rock Tomb",
+				"Toxic"
+            ]
+        }
+    },
+	"Aerodactyl": {
+        "Leader Grant": {
+            "level": 30,
+			"ability": "Pressure",
+			"item": "Yache Berry",
+			"nature": "Jolly",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Rock Tomb",
+                "Aerial Ace",
+                "Bulldoze",
+				"Bite"
+            ]
+        }
+    },
+	"Tirtouga": {
+        "Leader Grant": {
+            "level": 30,
+			"ability": "Solid Rock",
+			"item": "Power Herb",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Dive",
+                "Zen Headbutt",
+                "Rock Tomb",
+				"Knock Off"
+            ]
+        }
+    },
+	"Tyrunt": {
+        "Leader Grant": {
+            "level": 30,
+			"ability": "Strong Jaw",
+			"item": "Eviolite",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Fire Fang",
+                "Ice Fang",
+                "Dragon Dance",
+				"Rock Tomb"
+            ]
+        }
+    },
 
 };
