@@ -153,7 +153,7 @@ var SETDEX_XY = {
 	"Tirtouga": {
         "Leader Grant": {
             "level": 30,
-			"ability": "Solid Rock",
+			"ability": "Sturdy",
 			"item": "Power Herb",
 			"nature": "Adamant",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
