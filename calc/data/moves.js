@@ -2039,16 +2039,15 @@ var XY_PATCH = {
     'Sticky Web': { bp: 0, type: 'Bug' },
     'Topsy-Turvy': { bp: 0, type: 'Dark' },
     'Trick-or-Treat': { bp: 0, type: 'Ghost' },
-    'Venom Drench': { bp: 0, type: 'Poison', target: 'allAdjacentFoes' }
-};
-const EX_REB_PATCH = {
+    'Venom Drench': { bp: 0, type: 'Poison', target: 'allAdjacentFoes' },
     Cut: {
-      bp: 50,
-      type: 'Grass',
-      willCrit: true,
-    },
-  };
-var XY = util_1.extend(true, {}, BW, XY_PATCH, EX_REB_PATCH);
+        bp: 50,
+        type: 'Grass',
+        willCrit: true,
+      },
+};
+
+var XY = util_1.extend(true, {}, BW, XY_PATCH);
 var SM_PATCH = {
     'Ally Switch': { priority: 2 },
     Aeroblast: { zp: 180 },
