@@ -1,7 +1,7 @@
 /* AUTOMATICALLY GENERATED FROM @smogon/sets, DO NOT EDIT! */
 var SETDEX_XY = {
     "Surskit": {
-        "Viola": {
+        "Leader Viola": {
             "level": 13,
 			"ability": "Swift Swim",
 			"item": "Mystic Water",
@@ -16,7 +16,7 @@ var SETDEX_XY = {
         }
     },
 	"Joltik": {
-        "Viola": {
+        "Leader Viola": {
             "level": 13,
 			"ability": "Compound Eyes",
 			"item": "Occa Berry",
@@ -31,7 +31,7 @@ var SETDEX_XY = {
         }
     },
 	"Dustox": {
-        "Viola": {
+        "Leader Viola": {
             "level": 14,
 			"ability": "Compound Eyes",
 			"item": "Binding Band",
@@ -46,7 +46,7 @@ var SETDEX_XY = {
         }
     },
 	"Vivillon": {
-        "Viola": {
+        "Leader Viola": {
             "level": 16,
 			"ability": "Compound Eyes",
 			"item": "Oran Berry",
@@ -61,7 +61,7 @@ var SETDEX_XY = {
         }
     },
 	"Ledian": {
-        "Viola": {
+        "Leader Viola": {
             "level": 14,
 			"ability": "Aerilate",
 			"item": "Black Belt",
@@ -76,7 +76,7 @@ var SETDEX_XY = {
         }
     },
 	"Dwebble": {
-        "Viola": {
+        "Leader Viola": {
             "level": 13,
 			"ability": "Sturdy",
 			"item": "Rock Gem",
