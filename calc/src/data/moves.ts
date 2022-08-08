@@ -2047,15 +2047,14 @@ const XY_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   'Topsy-Turvy': {bp: 0, type: 'Dark'},
   'Trick-or-Treat': {bp: 0, type: 'Ghost'},
   'Venom Drench': {bp: 0, type: 'Poison', target: 'allAdjacentFoes'},
-};
-const EX_REB_PATCH = {
   Cut: {
     bp: 50,
     type: 'Grass',
     willCrit: true,
   },
 };
-const XY: {[name: string]: MoveData} = extend(true, {}, BW, XY_PATCH, EX_REB_PATCH);
+
+const XY: {[name: string]: MoveData} = extend(true, {}, BW, XY_PATCH);
 
 const SM_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   'Ally Switch': {priority: 2},
