@@ -192,6 +192,19 @@ var SETDEX_XY = {
                 "Light Screen",
 				"Charge Beam"
             ]
+        },
+        "Serena Couramine City": {
+            "level": 41,
+			"ability": "Competitive",
+			"nature": "Modest",
+			"item": "Light Clay",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Extrasensory",
+                "Shadow Ball",
+                "Light Screen",
+				"Charge Beam"
+            ]
         }
     },
 	"Dragonair": {
@@ -199,6 +212,19 @@ var SETDEX_XY = {
             "level": 35,
 			"ability": "Marvel Scale",
 			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Aqua Tail",
+                "Dragon Tail",
+                "Rest",
+				"Sleep Talk"
+            ]
+        },
+        "Serena Couramine City": {
+            "level": 40,
+			"ability": "Marvel Scale",
+			"nature": "Adamant",
+			"item": "Eviolite",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
             "moves": [
                 "Aqua Tail",
@@ -220,6 +246,19 @@ var SETDEX_XY = {
                 "Surf",
 				"Aurora Beam"
             ]
+        },
+        "Serena Couramine City": {
+            "level": 42,
+			"ability": "Hydration",
+			"nature": "Calm",
+			"item": "Leftovers",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Acid Armor",
+                "Rain Dance",
+                "Surf",
+				"Aurora Beam"
+            ]
         }
     },
 	"Absol": {
@@ -231,6 +270,19 @@ var SETDEX_XY = {
             "moves": [
                 "Will-O-Wisp",
                 "Aerial Ace",
+                "Night Slash",
+				"Swords Dance"
+            ]
+        },
+        "Serena Couramine City": {
+            "level": 40,
+			"ability": "Justified",
+			"nature": "Adamant",
+			"item": "Life Orb",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Psycho Cut",
+                "X-Scissor",
                 "Night Slash",
 				"Swords Dance"
             ]
@@ -247,6 +299,19 @@ var SETDEX_XY = {
                 "Spiky Shield",
                 "Leech Seed",
 				"Thunder Punch"
+            ]
+        },
+        "Serena Couramine City": {
+            "level": 42,
+			"ability": "Bulletproof",
+			"nature": "Adamant",
+			"item": "Sitrus Berry",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Seed Bomb",
+                "Spiky Shield",
+                "Leech Seed",
+				"Low Sweep"
             ]
         }
     },
@@ -340,8 +405,113 @@ var SETDEX_XY = {
             ]
         }
     },
-    "Rotom": {
-		"Leader Ramos [Gym]": {
+    "Ferrothorn": {
+        "Leader Ramos [Gym]": {
+            "level": 42,
+			"ability": "Iron Barbs",
+			"item": "Rocky Helmet",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Power Whip",
+                "Thunder Wave",
+                "Iron Head",
+				"Stealth Rock"
+            ]
+        }
+    },
+	"Venusaur": {
+        "Leader Ramos [Gym]": {
+            "level": 42,
+			"ability": "Chlorophyll",
+			"item": "Venusaurite",
+			"nature": "Quiet",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Sleep Powder",
+                "Giga Drain",
+                "Sludge Bomb",
+				"Earthquake"
+            ]
+        }
+    },
+    "Venusaur-Mega": {
+        "Leader Ramos [Gym]": {
+            "level": 42,
+			"ability": "Chlorophyll",
+			"item": "Venusaurite",
+			"nature": "Quiet",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Sleep Powder",
+                "Giga Drain",
+                "Sludge Bomb",
+				"Earthquake"
+            ]
+        }
+    },
+	"Sceptile": {
+        "Leader Ramos [Gym]": {
+            "level": 42,
+			"ability": "Unburden",
+			"item": "Weakness Policy",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Endure",
+                "Rock Slide",
+                "Dragon Claw",
+				"Earthquake"
+            ]
+        }
+    },
+	"Ludicolo": {
+        "Leader Ramos [Gym]": {
+            "level": 42,
+			"ability": "Swift Swim",
+			"item": "Focus Sash",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Rain Dance",
+                "Giga Drain",
+                "Ice Beam",
+				"Hydro Pump"
+            ]
+        }
+    },
+	"Torterra": {
+        "Leader Ramos [Gym]": {
+            "level": 42,
+			"ability": "Sap Sipper",
+			"item": "Coba Berry",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Stone Edge",
+                "Wood Hammer",
+                "Synthesis",
+				"Earthquake"
+            ]
+        }
+    },
+	"Gogoat": {
+        "Leader Ramos [Gym]": {
+            "level": 45,
+			"ability": "Sap Sipper",
+			"item": "Sitrus Berry",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Bulk Up",
+                "Horn Leech",
+                "Earthquake",
+				"Wild Charge"
+            ]
+        }
+    },
+	"Rotom": {
+		"Leader Clemont [Gym]": {
 			"level": 46,
 			"ability": "Levitate",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -355,7 +525,7 @@ var SETDEX_XY = {
 		}
 	},
 	"Galvantula": {
-		"Leader Ramos [Gym]": {
+		"Leader Clemont [Gym]": {
 			"level": 46,
 			"ability": "Compound Eyes",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -369,7 +539,7 @@ var SETDEX_XY = {
 		}
 	},
 	"Eelektross": {
-		"Leader Ramos [Gym]": {
+		"Leader Clemont [Gym]": {
 			"level": 46,
 			"ability": "Levitate",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -383,7 +553,21 @@ var SETDEX_XY = {
 		}
 	},
 	"Ampharos": {
-		"Leader Ramos [Gym]": {
+		"Leader Clemont [Gym]": {
+			"level": 46,
+			"ability": "Static",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"item": "Ampharosite",
+			"moves": [
+                "Thunderbolt",
+				"Dragon Pulse",
+				"Focus Blast",
+				"Cotton Guard"
+			]
+		}
+	},
+    "Ampharos-Mega": {
+		"Leader Clemont [Gym]": {
 			"level": 46,
 			"ability": "Static",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -397,7 +581,7 @@ var SETDEX_XY = {
 		}
 	},
 	"Magnezone": {
-		"Leader Ramos [Gym]": {
+		"Leader Clemont [Gym]": {
 			"level": 46,
 			"ability": "Sturdy",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -411,7 +595,7 @@ var SETDEX_XY = {
 		}
 	},
 	"Heliolisk": {
-		"Leader Ramos [Gym]": {
+		"Leader Clemont [Gym]": {
 			"level": 47,
 			"ability": "Dry Skin",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -424,80 +608,5 @@ var SETDEX_XY = {
 			]
 		}
 	},
-    "Meowstic-F": {
-        "Serena Couramine City": {
-            "level": 41,
-			"ability": "Competitive",
-			"nature": "Modest",
-			"item": "Light Clay",
-			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-            "moves": [
-                "Extrasensory",
-                "Shadow Ball",
-                "Light Screen",
-				"Charge Beam"
-            ]
-        }
-    },
-	"Dragonair": {
-        "Serena Couramine City": {
-            "level": 40,
-			"ability": "Marvel Scale",
-			"nature": "Adamant",
-			"item": "Eviolite",
-			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-            "moves": [
-                "Aqua Tail",
-                "Dragon Tail",
-                "Rest",
-				"Sleep Talk"
-            ]
-        }
-    },
-	"Vaporeon": {
-        "Serena Couramine City": {
-            "level": 42,
-			"ability": "Hydration",
-			"nature": "Calm",
-			"item": "Leftovers",
-			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-            "moves": [
-                "Acid Armor",
-                "Rain Dance",
-                "Surf",
-				"Aurora Beam"
-            ]
-        }
-    },
-	"Absol": {
-        "Serena Couramine City": {
-            "level": 40,
-			"ability": "Justified",
-			"nature": "Adamant",
-			"item": "Life Orb",
-			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-            "moves": [
-                "Psycho Cut",
-                "X-Scissor",
-                "Night Slash",
-				"Swords Dance"
-            ]
-        }
-    },
-	"Chesnaught": {
-        "Serena Couramine City": {
-            "level": 42,
-			"ability": "Bulletproof",
-			"nature": "Adamant",
-			"item": "Sitrus Berry",
-			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-            "moves": [
-                "Seed Bomb",
-                "Spiky Shield",
-                "Leech Seed",
-				"Low Sweep"
-            ]
-        }
-    },
 
 };
