@@ -438,7 +438,7 @@ var SETDEX_XY = {
     "Venusaur-Mega": {
         "Leader Ramos [Gym]": {
             "level": 42,
-			"ability": "Chlorophyll",
+			"ability": "Thick Fat",
 			"item": "Venusaurite",
 			"nature": "Quiet",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -569,7 +569,7 @@ var SETDEX_XY = {
     "Ampharos-Mega": {
 		"Leader Clemont [Gym]": {
 			"level": 46,
-			"ability": "Static",
+			"ability": "Mold Breaker",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"item": "Ampharosite",
 			"moves": [
