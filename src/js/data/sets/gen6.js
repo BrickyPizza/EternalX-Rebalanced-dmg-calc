@@ -424,5 +424,80 @@ var SETDEX_XY = {
 			]
 		}
 	},
+    "Meowstic-F": {
+        "Serena [Couramine City]": {
+            "level": 41,
+			"ability": "Competitive",
+			"nature": "Modest",
+			"item": "Light Clay",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Extrasensory",
+                "Shadow Ball",
+                "Light Screen",
+				"Charge Beam"
+            ]
+        }
+    },
+	"Dragonair": {
+        "Serena [Couramine City]": {
+            "level": 40,
+			"ability": "Marvel Scale",
+			"nature": "Adamant",
+			"item": "Eviolite",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Aqua Tail",
+                "Dragon Tail",
+                "Rest",
+				"Sleep Talk"
+            ]
+        }
+    },
+	"Vaporeon": {
+        "Serena [Couramine City]": {
+            "level": 42,
+			"ability": "Hydration",
+			"nature": "Calm",
+			"item": "Leftovers",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Acid Armor",
+                "Rain Dance",
+                "Surf",
+				"Aurora Beam"
+            ]
+        }
+    },
+	"Absol": {
+        "Serena [Couramine City]": {
+            "level": 40,
+			"ability": "Justified",
+			"nature": "Adamant",
+			"item": "Life Orb",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Psycho Cut",
+                "X-Scissor",
+                "Night Slash",
+				"Swords Dance"
+            ]
+        }
+    },
+	"Chesnaught": {
+        "Serena [Couramine City]": {
+            "level": 42,
+			"ability": "Bulletproof",
+			"nature": "Adamant",
+			"item": "Sitrus Berry",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Seed Bomb",
+                "Spiky Shield",
+                "Leech Seed",
+				"Low Sweep"
+            ]
+        }
+    },
 
 };
