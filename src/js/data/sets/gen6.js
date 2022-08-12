@@ -340,5 +340,89 @@ var SETDEX_XY = {
             ]
         }
     },
+    "Rotom": {
+		"Leader Ramos [Gym]": {
+			"level": 46,
+			"ability": "Levitate",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"item": "Red Card",
+			"moves": [
+                "Volt Switch",
+				"Will-O-Wisp",
+				"Hydro Pump",
+				"Confuse Ray"
+			]
+		}
+	},
+	"Galvantula": {
+		"Leader Ramos [Gym]": {
+			"level": 46,
+			"ability": "Compound Eyes",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"item": "Assault Vest",
+			"moves": [
+                "Bug Buzz",
+				"Thunder",
+				"Energy Ball",
+				"Poison Jab"
+			]
+		}
+	},
+	"Eelektross": {
+		"Leader Ramos [Gym]": {
+			"level": 46,
+			"ability": "Levitate",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"item": "Leftovers",
+			"moves": [
+                "Wild Charge",
+				"Aqua Tail",
+				"Fire Punch",
+				"Coil"
+			]
+		}
+	},
+	"Ampharos": {
+		"Leader Ramos [Gym]": {
+			"level": 46,
+			"ability": "Static",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"item": "Ampharosite",
+			"moves": [
+                "Thunderbolt",
+				"Dragon Pulse",
+				"Focus Blast",
+				"Cotton Guard"
+			]
+		}
+	},
+	"Magnezone": {
+		"Leader Ramos [Gym]": {
+			"level": 46,
+			"ability": "Sturdy",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"item": "Air Balloon",
+			"moves": [
+                "Flash Cannon",
+				"Thunder Wave",
+				"Volt Switch",
+				"Signal Beam"
+			]
+		}
+	},
+	"Heliolisk": {
+		"Leader Ramos [Gym]": {
+			"level": 47,
+			"ability": "Dry Skin",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"item": "Life Orb",
+			"moves": [
+                "Thunderbolt",
+				"Surf",
+				"Focus Blast",
+				"Grass Knot"
+			]
+		}
+	},
 
 };
