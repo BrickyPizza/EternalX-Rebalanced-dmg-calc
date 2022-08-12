@@ -340,5 +340,179 @@ var SETDEX_XY = {
             ]
         }
     },
+    "Ferrothorn": {
+        "Leader Ramos [Gym]": {
+            "level": 42,
+			"ability": "Iron Barbs",
+			"item": "Rocky Helmet",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Power Whip",
+                "Thunder Wave",
+                "Iron Head",
+				"Stealth Rock"
+            ]
+        }
+    },
+	"Venusaur": {
+        "Leader Ramos [Gym]": {
+            "level": 42,
+			"ability": "Chlorophyll",
+			"item": "Venusaurite",
+			"nature": "Quiet",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Sleep Powder",
+                "Giga Drain",
+                "Sludge Bomb",
+				"Earthquake"
+            ]
+        }
+    },
+	"Sceptile": {
+        "Leader Ramos [Gym]": {
+            "level": 42,
+			"ability": "Unburden",
+			"item": "Weakness Policy",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Endure",
+                "Rock Slide",
+                "Dragon Claw",
+				"Earthquake"
+            ]
+        }
+    },
+	"Ludicolo": {
+        "Leader Ramos [Gym]": {
+            "level": 42,
+			"ability": "Swift Swim",
+			"item": "Focus Sash",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Rain Dance",
+                "Giga Drain",
+                "Ice Beam",
+				"Hydro Pump"
+            ]
+        }
+    },
+	"Torterra": {
+        "Leader Ramos [Gym]": {
+            "level": 42,
+			"ability": "Sap Sipper",
+			"item": "Coba Berry",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Stone Edge",
+                "Wood Hammer",
+                "Synthesis",
+				"Earthquake"
+            ]
+        }
+    },
+	"Gogoat": {
+        "Leader Ramos [Gym]": {
+            "level": 45,
+			"ability": "Sap Sipper",
+			"item": "Sitrus Berry",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Bulk Up",
+                "Horn Leech",
+                "Earthquake",
+				"Wild Charge"
+            ]
+        }
+    },
+	"Rotom": {
+		"Leader Ramos [Gym]": {
+			"level": 46,
+			"ability": "Levitate",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"item": "Red Card",
+			"moves": [
+                "Volt Switch",
+				"Will-O-Wisp",
+				"Hydro Pump",
+				"Confuse Ray"
+			]
+		}
+	},
+	"Galvantula": {
+		"Leader Ramos [Gym]": {
+			"level": 46,
+			"ability": "Compound Eyes",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"item": "Assault Vest",
+			"moves": [
+                "Bug Buzz",
+				"Thunder",
+				"Energy Ball",
+				"Poison Jab"
+			]
+		}
+	},
+	"Eelektross": {
+		"Leader Ramos [Gym]": {
+			"level": 46,
+			"ability": "Levitate",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"item": "Leftovers",
+			"moves": [
+                "Wild Charge",
+				"Aqua Tail",
+				"Fire Punch",
+				"Coil"
+			]
+		}
+	},
+	"Ampharos": {
+		"Leader Ramos [Gym]": {
+			"level": 46,
+			"ability": "Static",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"item": "Ampharosite",
+			"moves": [
+                "Thunderbolt",
+				"Dragon Pulse",
+				"Focus Blast",
+				"Cotton Guard"
+			]
+		}
+	},
+	"Magnezone": {
+		"Leader Ramos [Gym]": {
+			"level": 46,
+			"ability": "Sturdy",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"item": "Air Balloon",
+			"moves": [
+                "Flash Cannon",
+				"Thunder Wave",
+				"Volt Switch",
+				"Signal Beam"
+			]
+		}
+	},
+	"Heliolisk": {
+		"Leader Ramos [Gym]": {
+			"level": 47,
+			"ability": "Dry Skin",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"item": "Life Orb",
+			"moves": [
+                "Thunderbolt",
+				"Surf",
+				"Focus Blast",
+				"Grass Knot"
+			]
+		}
+	},
 
 };
