@@ -181,7 +181,7 @@ var SETDEX_XY = {
         }
     },
     "Meowstic-F": {
-        "Serena [Shalour City]": {
+        "Serena Shalour City": {
             "level": 35,
 			"ability": "Competitive",
 			"nature": "Modest",
@@ -195,7 +195,7 @@ var SETDEX_XY = {
         }
     },
 	"Dragonair": {
-        "Serena [Shalour City]": {
+        "Serena Shalour City": {
             "level": 35,
 			"ability": "Marvel Scale",
 			"nature": "Adamant",
@@ -209,10 +209,10 @@ var SETDEX_XY = {
         }
     },
 	"Vaporeon": {
-        "Serena [Shalour City]": {
+        "Serena Shalour City": {
             "level": 35,
 			"ability": "Hydration",
-			"nature": "",
+			"nature": "Calm",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
             "moves": [
                 "Acid Armor",
@@ -223,7 +223,7 @@ var SETDEX_XY = {
         }
     },
 	"Absol": {
-        "Serena [Shalour City]": {
+        "Serena Shalour City": {
             "level": 35,
 			"ability": "Justified",
 			"nature": "Adamant",
@@ -237,7 +237,7 @@ var SETDEX_XY = {
         }
     },
 	"Chesnaught": {
-        "Serena [Shalour City]": {
+        "Serena Shalour City": {
             "level": 36,
 			"ability": "Bulletproof",
 			"nature": "Adamant",
@@ -515,7 +515,7 @@ var SETDEX_XY = {
 		}
 	},
     "Meowstic-F": {
-        "Serena [Couramine City]": {
+        "Serena Couramine City": {
             "level": 41,
 			"ability": "Competitive",
 			"nature": "Modest",
@@ -530,7 +530,7 @@ var SETDEX_XY = {
         }
     },
 	"Dragonair": {
-        "Serena [Couramine City]": {
+        "Serena Couramine City": {
             "level": 40,
 			"ability": "Marvel Scale",
 			"nature": "Adamant",
@@ -545,7 +545,7 @@ var SETDEX_XY = {
         }
     },
 	"Vaporeon": {
-        "Serena [Couramine City]": {
+        "Serena Couramine City": {
             "level": 42,
 			"ability": "Hydration",
 			"nature": "Calm",
@@ -560,7 +560,7 @@ var SETDEX_XY = {
         }
     },
 	"Absol": {
-        "Serena [Couramine City]": {
+        "Serena Couramine City": {
             "level": 40,
 			"ability": "Justified",
 			"nature": "Adamant",
@@ -575,7 +575,7 @@ var SETDEX_XY = {
         }
     },
 	"Chesnaught": {
-        "Serena [Couramine City]": {
+        "Serena Couramine City": {
             "level": 42,
 			"ability": "Bulletproof",
 			"nature": "Adamant",
