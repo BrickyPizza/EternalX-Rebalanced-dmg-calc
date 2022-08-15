@@ -1041,6 +1041,7 @@ const DPP_PATCH: {[name: string]: DeepPartial<MoveData>} = {
     type: 'Fighting',
     makesContact: true,
     category: 'Physical',
+    self: { boosts: { def: -1, spd: -1 } }
   },
   'Cross Poison': {
     bp: 70,
@@ -2056,6 +2057,7 @@ const XY_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   Strength: {
     bp: 100,
     type: 'Rock',
+    self: { boosts: { def: -1, spd: -1 } }
   },
   Submission: {bp: 90,},
   Chatter: { bp: 90 },
