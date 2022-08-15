@@ -608,5 +608,94 @@ var SETDEX_XY = {
 			]
 		}
 	},
+    "Mightyena": {
+        "Team Flare Aliana [Power Plant]": {
+            "level": 45,
+			"ability": "Intimidate",
+			"item": "Sitrus Berry",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Swagger",
+                "Foul Play",
+                "Sucker Punch",
+				"Play Rough"
+            ]
+        }
+    },
+	"Druddigon": {
+        "Team Flare Aliana [Power Plant]": {
+            "level": 45,
+			"ability": "Sheer Force",
+			"item": "Life Orb",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Fire Punch",
+                "Dragon Claw",
+                "Superpower",
+				"Iron Head"
+            ]
+        }
+    },
+	"Diggersby": {
+        "Team Flare Aliana [Power Plant]": {
+            "level": 45,
+			"ability": "Huge Power",
+			"item": "Silk Scarf",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Swords Dance",
+                "Giga Impact",
+                "Ice Punch",
+				"Earthquake"
+            ]
+        }
+    },
+	"Pyroar": {
+        "Team Flare Aliana [Power Plant]": {
+            "level": 45,
+			"ability": "Competitive",
+			"item": "Chople Berry",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Flamethrower",
+                "Endeavor",
+                "Crunch",
+				"Will-O-Wisp"
+            ]
+        }
+    },
+	"Heracross": {
+        "Team Flare Aliana [Power Plant]": {
+            "level": 46,
+			"ability": "Moxie",
+			"item": "Heracronite",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Arm Thrust",
+                "Pin Missile",
+                "Night Slash",
+				"Bullet Seed"
+            ]
+        }
+    },
+	"Heracross-Mega": {
+        "Team Flare Aliana [Power Plant]": {
+            "level": 46,
+			"ability": "Skill Link",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Arm Thrust",
+                "Pin Missile",
+                "Night Slash",
+				"Bullet Seed"
+            ]
+        }
+    },
 
 };
