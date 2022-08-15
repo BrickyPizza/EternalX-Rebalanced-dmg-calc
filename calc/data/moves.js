@@ -1039,7 +1039,8 @@ var DPP_PATCH = {
         bp: 120,
         type: 'Fighting',
         makesContact: true,
-        category: 'Physical'
+        category: 'Physical',
+        self: { boosts: { def: -1, spd: -1 } }
     },
     'Cross Poison': {
         bp: 70,
@@ -2049,6 +2050,7 @@ var XY_PATCH = {
       Strength: {
         bp: 100,
         type: 'Rock',
+        self: { boosts: { def: -1, spd: -1 } }
       },
       Submission: {bp: 90,},
       Chatter: { bp: 90 },
