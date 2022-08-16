@@ -181,7 +181,7 @@ var SETDEX_XY = {
         }
     },
     "Meowstic-F": {
-        "Serena Shalour City": {
+        "Serena [Shalour City]": {
             "level": 35,
 			"ability": "Competitive",
 			"nature": "Modest",
@@ -190,10 +190,10 @@ var SETDEX_XY = {
                 "Psyshock",
                 "Shadow Ball",
                 "Light Screen",
-				"Charge Beam"
+                "Charge Beam"
             ]
         },
-        "Serena Couramine City": {
+        "Serena [Couramine City]": {
             "level": 41,
 			"ability": "Competitive",
 			"nature": "Modest",
@@ -203,12 +203,25 @@ var SETDEX_XY = {
                 "Extrasensory",
                 "Shadow Ball",
                 "Light Screen",
-				"Charge Beam"
+                "Charge Beam"
             ]
-        }
+        },
+        "Serena [Route 14]": {
+            "level": 47,
+			"ability": "Competitive",
+			"nature": "Modest",
+			"item": "Colbur Berry",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Psychic",
+                "Shadow Ball",
+                "Grass Knot",
+                "Signal Beam"
+            ]
+        },
     },
 	"Dragonair": {
-        "Serena Shalour City": {
+        "Serena [Shalour City]": {
             "level": 35,
 			"ability": "Marvel Scale",
 			"nature": "Adamant",
@@ -217,10 +230,10 @@ var SETDEX_XY = {
                 "Aqua Tail",
                 "Dragon Tail",
                 "Rest",
-				"Sleep Talk"
+                "Sleep Talk"
             ]
         },
-        "Serena Couramine City": {
+        "Serena [Couramine City]": {
             "level": 40,
 			"ability": "Marvel Scale",
 			"nature": "Adamant",
@@ -230,12 +243,25 @@ var SETDEX_XY = {
                 "Aqua Tail",
                 "Dragon Tail",
                 "Rest",
-				"Sleep Talk"
+                "Sleep Talk"
+            ]
+        },
+        "Serena [Route 14]": {
+            "level": 48,
+			"ability": "Marvel Scale",
+			"nature": "Adamant",
+			"item": "Eviolite",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Aqua Tail",
+                "Dragon Rush",
+                "Thunder",
+                "Fire Blast"
             ]
         }
     },
 	"Vaporeon": {
-        "Serena Shalour City": {
+        "Serena [Shalour City]": {
             "level": 35,
 			"ability": "Hydration",
 			"nature": "Calm",
@@ -244,10 +270,10 @@ var SETDEX_XY = {
                 "Acid Armor",
                 "Baton Pass",
                 "Surf",
-				"Aurora Beam"
+                "Aurora Beam"
             ]
         },
-        "Serena Couramine City": {
+        "Serena [Couramine City]": {
             "level": 42,
 			"ability": "Hydration",
 			"nature": "Calm",
@@ -257,12 +283,25 @@ var SETDEX_XY = {
                 "Acid Armor",
                 "Rain Dance",
                 "Surf",
-				"Aurora Beam"
+                "Aurora Beam"
+            ]
+        },
+        "Serena [Route 14]": {
+            "level": 47,
+			"ability": "Hydration",
+			"nature": "Calm",
+			"item": "Sitrus Berry",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Acid Armor",
+                "Toxic",
+                "Hydro Pump",
+                "Blizzard"
             ]
         }
     },
 	"Absol": {
-        "Serena Shalour City": {
+        "Serena [Shalour City]": {
             "level": 35,
 			"ability": "Justified",
 			"nature": "Adamant",
@@ -271,10 +310,10 @@ var SETDEX_XY = {
                 "Will-O-Wisp",
                 "Aerial Ace",
                 "Night Slash",
-				"Swords Dance"
+                "Swords Dance"
             ]
         },
-        "Serena Couramine City": {
+        "Serena [Couramine City]": {
             "level": 40,
 			"ability": "Justified",
 			"nature": "Adamant",
@@ -284,12 +323,25 @@ var SETDEX_XY = {
                 "Psycho Cut",
                 "X-Scissor",
                 "Night Slash",
-				"Swords Dance"
+                "Swords Dance"
+            ]
+        },
+        "Serena [Route 14]": {
+            "level": 47,
+			"ability": "Justified",
+			"nature": "Adamant",
+			"item": "Life Orb",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Zen Headbutt",
+                "X-Scissor",
+                "Sucker Punch",
+                "Swords Dance"
             ]
         }
     },
 	"Chesnaught": {
-        "Serena Shalour City": {
+        "Serena [Shalour City]": {
             "level": 36,
 			"ability": "Bulletproof",
 			"nature": "Adamant",
@@ -298,10 +350,10 @@ var SETDEX_XY = {
                 "Seed Bomb",
                 "Spiky Shield",
                 "Leech Seed",
-				"Thunder Punch"
+                "Thunder Punch"
             ]
         },
-        "Serena Couramine City": {
+        "Serena [Couramine City]": {
             "level": 42,
 			"ability": "Bulletproof",
 			"nature": "Adamant",
@@ -311,9 +363,37 @@ var SETDEX_XY = {
                 "Seed Bomb",
                 "Spiky Shield",
                 "Leech Seed",
-				"Low Sweep"
+                "Low Sweep"
             ]
-        }
+        },
+        "Serena [Route 14]": {
+            "level": 49,
+			"ability": "Bulletproof",
+			"nature": "Adamant",
+			"item": "Assault Vest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Seed Bomb",
+                "Poison Jab",
+                "Thunder Punch",
+                "Drain Punch"
+            ]
+        },
+    },
+	"Clefable": {
+        "Serena [Route 14]": {
+            "level": 47,
+			"ability": "Magic Guard",
+			"nature": "Modest",
+			"item": "Leftovers",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Moonblast",
+                "Cosmic Power",
+                "Charge Beam",
+                "Soft-Boiled"
+            ]
+        },
     },
 	"Breloom": {
         "Leader Korrina [Gym]": {
@@ -510,10 +590,11 @@ var SETDEX_XY = {
             ]
         }
     },
-	"Rotom": {
+	"Rotom-Wash": {
 		"Leader Clemont [Gym]": {
 			"level": 46,
 			"ability": "Levitate",
+            "nature": "Modest",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"item": "Red Card",
 			"moves": [
@@ -528,6 +609,7 @@ var SETDEX_XY = {
 		"Leader Clemont [Gym]": {
 			"level": 46,
 			"ability": "Compound Eyes",
+            "nature": "Timid",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"item": "Assault Vest",
 			"moves": [
@@ -542,6 +624,7 @@ var SETDEX_XY = {
 		"Leader Clemont [Gym]": {
 			"level": 46,
 			"ability": "Levitate",
+            "nature": "Adamant",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"item": "Leftovers",
 			"moves": [
@@ -556,6 +639,7 @@ var SETDEX_XY = {
 		"Leader Clemont [Gym]": {
 			"level": 46,
 			"ability": "Static",
+            "nature": "Modest",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"item": "Ampharosite",
 			"moves": [
@@ -570,6 +654,7 @@ var SETDEX_XY = {
 		"Leader Clemont [Gym]": {
 			"level": 46,
 			"ability": "Mold Breaker",
+            "nature": "Modest",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"item": "Ampharosite",
 			"moves": [
@@ -584,6 +669,7 @@ var SETDEX_XY = {
 		"Leader Clemont [Gym]": {
 			"level": 46,
 			"ability": "Sturdy",
+            "nature": "Modest",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"item": "Air Balloon",
 			"moves": [
@@ -598,6 +684,7 @@ var SETDEX_XY = {
 		"Leader Clemont [Gym]": {
 			"level": 47,
 			"ability": "Dry Skin",
+            "nature": "Modest",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"item": "Life Orb",
 			"moves": [
@@ -694,6 +781,51 @@ var SETDEX_XY = {
                 "Pin Missile",
                 "Night Slash",
 				"Bullet Seed"
+            ]
+        }
+    },
+    "Houndoom": {
+        "Team Flare Admin [Power Plant]": {
+            "level": 44,
+			"ability": "Flash Fire",
+			"item": "Sitrus Berry",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Sunny Day",
+                "Flamethrower",
+                "Thunder Fang",
+                "Dark Pulse"
+            ]
+        }
+    },
+    "Rotom-Heat": {
+        "Team Flare Admin [Power Plant]": {
+            "level": 44,
+			"ability": "Levitate",
+			"item": "Sitrus Berry",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Volt Switch",
+                "Will-O-Wisp",
+                "Flash",
+                "Overheat"
+            ]
+        }
+    },
+    "Crobat": {
+        "Team Flare Admin [Power Plant]": {
+            "level": 44,
+			"ability": "Infiltrator",
+			"item": "Sitrus Berry",
+			"nature": "Jolly",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Cross Poison",
+                "Acrobatics",
+                "Dark Pulse",
+                "Roost"
             ]
         }
     },
