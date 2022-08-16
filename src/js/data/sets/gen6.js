@@ -1,7 +1,7 @@
 /* AUTOMATICALLY GENERATED FROM @smogon/sets, DO NOT EDIT! */
 var SETDEX_XY = {
     "Surskit": {
-        "Leader Viola [Gym]": {
+        "Leader Viola [Gym 1]": {
             "level": 13,
 			"ability": "Swift Swim",
 			"item": "Mystic Water",
@@ -16,7 +16,7 @@ var SETDEX_XY = {
         }
     },
 	"Joltik": {
-        "Leader Viola [Gym]": {
+        "Leader Viola [Gym 1]": {
             "level": 13,
 			"ability": "Compound Eyes",
 			"item": "Occa Berry",
@@ -31,7 +31,7 @@ var SETDEX_XY = {
         }
     },
 	"Dustox": {
-        "Leader Viola [Gym]": {
+        "Leader Viola [Gym 1]": {
             "level": 14,
 			"ability": "Compound Eyes",
 			"item": "Binding Band",
@@ -46,7 +46,7 @@ var SETDEX_XY = {
         }
     },
 	"Vivillon": {
-        "Leader Viola [Gym]": {
+        "Leader Viola [Gym 1]": {
             "level": 16,
 			"ability": "Compound Eyes",
 			"item": "Oran Berry",
@@ -61,7 +61,7 @@ var SETDEX_XY = {
         }
     },
 	"Ledian": {
-        "Leader Viola [Gym]": {
+        "Leader Viola [Gym 1]": {
             "level": 14,
 			"ability": "Aerilate",
 			"item": "Black Belt",
@@ -76,7 +76,7 @@ var SETDEX_XY = {
         }
     },
 	"Dwebble": {
-        "Leader Viola [Gym]": {
+        "Leader Viola [Gym 1]": {
             "level": 13,
 			"ability": "Sturdy",
 			"item": "Rock Gem",
@@ -91,7 +91,7 @@ var SETDEX_XY = {
         }
     },
 	"Amaura": {
-        "Leader Grant [Gym]": {
+        "Leader Grant [Gym 2]": {
             "level": 30,
 			"ability": "Refrigerate",
 			"item": "Focus Sash",
@@ -106,7 +106,7 @@ var SETDEX_XY = {
         }
     },
 	"Anorith": {
-        "Leader Grant [Gym]": {
+        "Leader Grant [Gym 2]": {
             "level": 30,
 			"ability": "Swift Swim",
 			"item": "Weakness Policy",
@@ -121,7 +121,7 @@ var SETDEX_XY = {
         }
     },
 	"Lileep": {
-        "Leader Grant [Gym]": {
+        "Leader Grant [Gym 2]": {
             "level": 30,
 			"ability": "Storm Drain",
 			"item": "Sitrus Berry",
@@ -136,7 +136,7 @@ var SETDEX_XY = {
         }
     },
 	"Aerodactyl": {
-        "Leader Grant [Gym]": {
+        "Leader Grant [Gym 2]": {
             "level": 30,
 			"ability": "Pressure",
 			"item": "Yache Berry",
@@ -151,7 +151,7 @@ var SETDEX_XY = {
         }
     },
 	"Tirtouga": {
-        "Leader Grant [Gym]": {
+        "Leader Grant [Gym 2]": {
             "level": 30,
 			"ability": "Sturdy",
 			"item": "Power Herb",
@@ -166,7 +166,7 @@ var SETDEX_XY = {
         }
     },
 	"Tyrunt": {
-        "Leader Grant [Gym]": {
+        "Leader Grant [Gym 2]": {
             "level": 30,
 			"ability": "Strong Jaw",
 			"item": "Eviolite",
@@ -396,7 +396,7 @@ var SETDEX_XY = {
         },
     },
 	"Breloom": {
-        "Leader Korrina [Gym]": {
+        "Leader Korrina [Gym 3]": {
             "level": 35,
 			"ability": "Technician",
 			"item": "Focus Sash",
@@ -411,7 +411,7 @@ var SETDEX_XY = {
         }
     },
 	"Lopunny": {
-        "Leader Korrina [Gym]": {
+        "Leader Korrina [Gym 3]": {
             "level": 35,
 			"ability": "Scrappy",
 			"item": "Eject Button",
@@ -426,7 +426,7 @@ var SETDEX_XY = {
         }
     },
 	"Pangoro": {
-        "Leader Korrina [Gym]": {
+        "Leader Korrina [Gym 3]": {
             "level": 35,
 			"ability": "Iron Fist",
 			"item": "Assault Vest",
@@ -441,7 +441,7 @@ var SETDEX_XY = {
         }
     },
 	"Gallade": {
-        "Leader Korrina [Gym]": {
+        "Leader Korrina [Gym 3]": {
             "level": 35,
 			"ability": "Justified",
 			"item": "Scope Lens",
@@ -456,7 +456,7 @@ var SETDEX_XY = {
         }
     },
 	"Lucario": {
-        "Leader Korrina [Gym]": {
+        "Leader Korrina [Gym 3]": {
             "level": 36,
 			"ability": "Steadfast",
 			"item": "Shuca Berry",
@@ -471,7 +471,7 @@ var SETDEX_XY = {
         }
     },
 	"Hawlucha": {
-        "Leader Korrina [Gym]": {
+        "Leader Korrina [Gym 3]": {
             "level": 37,
 			"ability": "Unburden",
 			"item": "Flying Gem",
@@ -486,7 +486,7 @@ var SETDEX_XY = {
         }
     },
     "Ferrothorn": {
-        "Leader Ramos [Gym]": {
+        "Leader Ramos [Gym 4]": {
             "level": 42,
 			"ability": "Iron Barbs",
 			"item": "Rocky Helmet",
@@ -501,7 +501,7 @@ var SETDEX_XY = {
         }
     },
 	"Venusaur": {
-        "Leader Ramos [Gym]": {
+        "Leader Ramos [Gym 4]": {
             "level": 42,
 			"ability": "Chlorophyll",
 			"item": "Venusaurite",
@@ -516,7 +516,7 @@ var SETDEX_XY = {
         }
     },
     "Venusaur-Mega": {
-        "Leader Ramos [Gym]": {
+        "Leader Ramos [Gym 4]": {
             "level": 42,
 			"ability": "Thick Fat",
 			"item": "Venusaurite",
@@ -531,7 +531,7 @@ var SETDEX_XY = {
         }
     },
 	"Sceptile": {
-        "Leader Ramos [Gym]": {
+        "Leader Ramos [Gym 4]": {
             "level": 42,
 			"ability": "Unburden",
 			"item": "Weakness Policy",
@@ -546,7 +546,7 @@ var SETDEX_XY = {
         }
     },
 	"Ludicolo": {
-        "Leader Ramos [Gym]": {
+        "Leader Ramos [Gym 4]": {
             "level": 42,
 			"ability": "Swift Swim",
 			"item": "Focus Sash",
@@ -561,7 +561,7 @@ var SETDEX_XY = {
         }
     },
 	"Torterra": {
-        "Leader Ramos [Gym]": {
+        "Leader Ramos [Gym 4]": {
             "level": 42,
 			"ability": "Sap Sipper",
 			"item": "Coba Berry",
@@ -576,7 +576,7 @@ var SETDEX_XY = {
         }
     },
 	"Gogoat": {
-        "Leader Ramos [Gym]": {
+        "Leader Ramos [Gym 4]": {
             "level": 45,
 			"ability": "Sap Sipper",
 			"item": "Sitrus Berry",
@@ -591,7 +591,7 @@ var SETDEX_XY = {
         }
     },
 	"Rotom-Wash": {
-		"Leader Clemont [Gym]": {
+		"Leader Clemont [Gym 5]": {
 			"level": 46,
 			"ability": "Levitate",
             "nature": "Modest",
@@ -606,7 +606,7 @@ var SETDEX_XY = {
 		}
 	},
 	"Galvantula": {
-		"Leader Clemont [Gym]": {
+		"Leader Clemont [Gym 5]": {
 			"level": 46,
 			"ability": "Compound Eyes",
             "nature": "Timid",
@@ -621,7 +621,7 @@ var SETDEX_XY = {
 		}
 	},
 	"Eelektross": {
-		"Leader Clemont [Gym]": {
+		"Leader Clemont [Gym 5]": {
 			"level": 46,
 			"ability": "Levitate",
             "nature": "Adamant",
@@ -636,7 +636,7 @@ var SETDEX_XY = {
 		}
 	},
 	"Ampharos": {
-		"Leader Clemont [Gym]": {
+		"Leader Clemont [Gym 5]": {
 			"level": 46,
 			"ability": "Static",
             "nature": "Modest",
@@ -651,7 +651,7 @@ var SETDEX_XY = {
 		}
 	},
     "Ampharos-Mega": {
-		"Leader Clemont [Gym]": {
+		"Leader Clemont [Gym 5]": {
 			"level": 46,
 			"ability": "Mold Breaker",
             "nature": "Modest",
@@ -666,7 +666,7 @@ var SETDEX_XY = {
 		}
 	},
 	"Magnezone": {
-		"Leader Clemont [Gym]": {
+		"Leader Clemont [Gym 5]": {
 			"level": 46,
 			"ability": "Sturdy",
             "nature": "Modest",
@@ -681,7 +681,7 @@ var SETDEX_XY = {
 		}
 	},
 	"Heliolisk": {
-		"Leader Clemont [Gym]": {
+		"Leader Clemont [Gym 5]": {
 			"level": 47,
 			"ability": "Dry Skin",
             "nature": "Modest",
@@ -826,6 +826,111 @@ var SETDEX_XY = {
                 "Acrobatics",
                 "Dark Pulse",
                 "Roost"
+            ]
+        }
+    },
+    "Klefki": {
+        "Leader Valerie [Gym 6]": {
+            "level": 50,
+			"ability": "Prankster",
+			"item": "Black Glasses",
+			"nature": "Brave",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Swagger",
+                "Foul Play",
+                "Spikes",
+				"Dazzling Gleam"
+            ]
+        }
+    },
+	"Azumarill": {
+        "Leader Valerie [Gym 6]": {
+            "level": 50,
+			"ability": "Huge Power",
+			"item": "Assault Vest",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Waterfall",
+                "Aqua Jet",
+                "Play Rough",
+				"Bulldoze"
+            ]
+        }
+    },
+	"Granbull": {
+        "Leader Valerie [Gym 6]": {
+            "level": 50,
+			"ability": "Quick Feet",
+			"item": "Toxic Orb",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Protect",
+                "Play Rough",
+                "Close Combat",
+				"Earthquake"
+            ]
+        }
+    },
+	"Togekiss": {
+        "Leader Valerie [Gym 6]": {
+            "level": 50,
+			"ability": "Serene Grace",
+			"item": "Lum Berry",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Air Slash",
+                "Flamethrower",
+                "Thunder Wave",
+				"Roost"
+            ]
+        }
+    },
+	"Sylveon": {
+        "Leader Valerie [Gym 6]": {
+            "level": 51,
+			"ability": "Pixilate",
+			"item": "Leftovers",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Hyper Voice",
+                "Psyshock",
+                "Yawn",
+				"Calm Mind"
+            ]
+        }
+    },
+	"Mawile": {
+        "Leader Valerie [Gym 6]": {
+            "level": 52,
+			"ability": "Intimidate",
+			"item": "Mawilite",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Iron Head",
+                "Play Rough",
+                "Sucker Punch",
+				"Foul Play"
+            ]
+        }
+    },
+	"Mawile-Mega": {
+        "Leader Valerie [Gym 6]": {
+            "level": 52,
+			"ability": "Huge Power",
+			"item": "Mawilite",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Iron Head",
+                "Play Rough",
+                "Sucker Punch",
+				"Foul Play"
             ]
         }
     },
