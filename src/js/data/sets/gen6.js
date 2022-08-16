@@ -1024,5 +1024,110 @@ var SETDEX_XY = {
             ]
         }
     },
+    "Aurorus": {
+        "Leader Wulfric [Gym 8]": {
+            "level": 75,
+			"ability": "Snow Warning",
+			"item": "Icy Rock",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Blizzard",
+                "Earth Power",
+                "Power Gem",
+				"Protect"
+            ]
+        }
+    },
+	"Beartic": {
+        "Leader Wulfric [Gym 8]": {
+            "level": 75,
+			"ability": "Snow Cloak",
+			"item": "Sitrus Berry",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Icicle Crash",
+                "Close Combat",
+                "Waterfall",
+				"Protect"
+            ]
+        }
+    },
+	"Jynx": {
+        "Leader Wulfric [Gym 8]": {
+            "level": 75,
+			"ability": "Dry Skin",
+			"item": "Life Orb",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Lovely Kiss",
+                "Psychic",
+                "Blizzard",
+				"Energy Ball"
+            ]
+        }
+    },
+	"Avalugg": {
+        "Leader Wulfric [Gym 8]": {
+            "level": 77,
+			"ability": "Sturdy",
+			"item": "Leftovers",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Protect",
+                "Recover",
+                "Avalance",
+				"Crunch"
+            ]
+        }
+    },
+	"Froslass": {
+        "Leader Wulfric [Gym 8]": {
+            "level": 75,
+			"ability": "Snow Cloak",
+			"item": "Bright Powder",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Blizzard",
+                "Thunderbolt",
+                "Shadow Ball",
+				"Psychic"
+            ]
+        }
+    },
+	"Abomasnow": {
+        "Leader Wulfric [Gym 8]": {
+            "level": 78,
+			"ability": "Snow Warning",
+			"item": "Abomasite",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Blizzard",
+                "Giga Drain",
+                "Focus Blast",
+				"Ice Shard"
+            ]
+        }
+    },
+	"Abomasnow-Mega": {
+        "Leader Wulfric [Gym 8]": {
+            "level": 78,
+			"ability": "Snow Warning",
+			"item": "Abomasite",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Blizzard",
+                "Giga Drain",
+                "Focus Blast",
+				"Ice Shard"
+            ]
+        }
+    },
 
 };
