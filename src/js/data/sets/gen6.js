@@ -934,5 +934,95 @@ var SETDEX_XY = {
             ]
         }
     },
+    "Claydol": {
+        "Leader Olympia [Gym 7]": {
+            "level": 63,
+			"ability": "Levitate",
+			"item": "Leftovers",
+			"nature": "Calm",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Earth Power",
+                "Stealth Rock",
+                "Calm Mind",
+				"Ice Beam"
+            ]
+        }
+    },
+	"Delphox": {
+        "Leader Olympia [Gym 7]": {
+            "level": 63,
+			"ability": "Magician",
+			"item": "Power Herb",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Calm Mind",
+                "Solar Beam",
+                "Aura Sphere",
+				"Fire Blast"
+            ]
+        }
+    },
+	"Sigilyph": {
+        "Leader Olympia [Gym 7]": {
+            "level": 63,
+			"ability": "Magic Guard",
+			"item": "Flame Orb",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Stored Power",
+                "Cosmic Power",
+                "Psycho Shift",
+				"Roost"
+            ]
+        }
+    },
+	"Metagross": {
+        "Leader Olympia [Gym 7]": {
+            "level": 63,
+			"ability": "Tough Claws",
+			"item": "Life Orb",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Meteor Mash",
+                "Earthquake",
+                "Ice Punch",
+				"Rock Polish"
+            ]
+        }
+    },
+	"Medicham": {
+        "Leader Olympia [Gym 7]": {
+            "level": 65,
+			"ability": "Pure Power",
+			"item": "Medichamite",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Drain Punch",
+                "Zen Headbutt",
+                "Ice Punch",
+				"Poison Jab"
+            ]
+        }
+    },
+	"Medicham-Mega": {
+        "Leader Olympia [Gym 7]": {
+            "level": 65,
+			"ability": "Pure Power",
+			"item": "Medichamite",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Drain Punch",
+                "Zen Headbutt",
+                "Ice Punch",
+				"Poison Jab"
+            ]
+        }
+    },
 
 };
