@@ -1456,7 +1456,37 @@ var SETDEX_XY = {
             ]
         },
     },
-	"Aegislash": {
+	"Aegislash-Blade": {
+        "Team Flare Celosia [Lysandre]": {
+            "level": 63,
+			"ability": "Stance Change",
+			"item": "Weakness Policy",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Autotomize",
+                "Shadow Ball",
+                "Flash Cannon",
+				"King's Shield"
+            ]
+        },
+    },
+    "Aegislash-Both": {
+        "Team Flare Celosia [Lysandre]": {
+            "level": 63,
+			"ability": "Stance Change",
+			"item": "Weakness Policy",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Autotomize",
+                "Shadow Ball",
+                "Flash Cannon",
+				"King's Shield"
+            ]
+        },
+    },
+    "Aegislash-Shield": {
         "Team Flare Celosia [Lysandre]": {
             "level": 63,
 			"ability": "Stance Change",
