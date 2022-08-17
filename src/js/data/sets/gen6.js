@@ -633,6 +633,19 @@ var SETDEX_XY = {
 				"Fire Punch",
 				"Coil"
 			]
+		},
+        "Team Flare Xerosic [Lysandre Labs]": {
+			"level": 64,
+			"ability": "Levitate",
+            "nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"item": "Assault Vest",
+			"moves": [
+                "Volt Switch",
+				"Giga Drain",
+				"Flamethrower",
+				"Dragon Pulse"
+			]
 		}
 	},
 	"Ampharos": {
@@ -695,95 +708,6 @@ var SETDEX_XY = {
 			]
 		}
 	},
-    "Mightyena": {
-        "Team Flare Aliana [Power Plant]": {
-            "level": 45,
-			"ability": "Intimidate",
-			"item": "Sitrus Berry",
-			"nature": "Adamant",
-			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-            "moves": [
-                "Swagger",
-                "Foul Play",
-                "Sucker Punch",
-				"Play Rough"
-            ]
-        }
-    },
-	"Druddigon": {
-        "Team Flare Aliana [Power Plant]": {
-            "level": 45,
-			"ability": "Sheer Force",
-			"item": "Life Orb",
-			"nature": "Adamant",
-			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-            "moves": [
-                "Fire Punch",
-                "Dragon Claw",
-                "Superpower",
-				"Iron Head"
-            ]
-        }
-    },
-	"Diggersby": {
-        "Team Flare Aliana [Power Plant]": {
-            "level": 45,
-			"ability": "Huge Power",
-			"item": "Silk Scarf",
-			"nature": "Adamant",
-			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-            "moves": [
-                "Swords Dance",
-                "Giga Impact",
-                "Ice Punch",
-				"Earthquake"
-            ]
-        }
-    },
-	"Pyroar": {
-        "Team Flare Aliana [Power Plant]": {
-            "level": 45,
-			"ability": "Competitive",
-			"item": "Chople Berry",
-			"nature": "Modest",
-			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-            "moves": [
-                "Flamethrower",
-                "Endeavor",
-                "Crunch",
-				"Will-O-Wisp"
-            ]
-        }
-    },
-	"Heracross": {
-        "Team Flare Aliana [Power Plant]": {
-            "level": 46,
-			"ability": "Moxie",
-			"item": "Heracronite",
-			"nature": "Adamant",
-			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-            "moves": [
-                "Arm Thrust",
-                "Pin Missile",
-                "Night Slash",
-				"Bullet Seed"
-            ]
-        }
-    },
-	"Heracross-Mega": {
-        "Team Flare Aliana [Power Plant]": {
-            "level": 46,
-			"ability": "Skill Link",
-			"nature": "Adamant",
-			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-            "moves": [
-                "Arm Thrust",
-                "Pin Missile",
-                "Night Slash",
-				"Bullet Seed"
-            ]
-        }
-    },
     "Houndoom": {
         "Team Flare Admin [Power Plant]": {
             "level": 44,
@@ -827,7 +751,20 @@ var SETDEX_XY = {
                 "Dark Pulse",
                 "Roost"
             ]
-        }
+        },
+        "Team Flare Xerosic [Lysandre Labs]": {
+            "level": 64,
+			"ability": "Infiltrator",
+			"item": "Life Orb",
+			"nature": "Jolly",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Cross Poison",
+                "U-Turn",
+                "Heat Wave",
+                "Brave Bird"
+            ]
+        },
     },
     "Klefki": {
         "Leader Valerie [Gym 6]": {
@@ -1128,6 +1065,1053 @@ var SETDEX_XY = {
 				"Ice Shard"
             ]
         }
+    },
+    "Mightyena": {
+        "Team Flare Aliana [Power Plant]": {
+            "level": 45,
+			"ability": "Intimidate",
+			"item": "Sitrus Berry",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Swagger",
+                "Foul Play",
+                "Sucker Punch",
+				"Play Rough"
+            ]
+        },
+		"Team Flare Aliana [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Intimidate",
+			"item": "Black Glasses",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Swagger",
+                "Foul Play",
+                "Sucker Punch",
+				"Play Rough"
+            ]
+        },
+    },
+	"Druddigon": {
+        "Team Flare Aliana [Power Plant]": {
+            "level": 45,
+			"ability": "Sheer Force",
+			"item": "Life Orb",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Fire Punch",
+                "Dragon Claw",
+                "Superpower",
+				"Iron Head"
+            ]
+        },
+		"Team Flare Aliana [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Sheer Force",
+			"item": "Life Orb",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Fire Punch",
+                "Dragon Rush",
+                "Gunk Shot",
+				"Rock Slide"
+            ]
+        },
+    },
+	"Diggersby": {
+        "Team Flare Aliana [Power Plant]": {
+            "level": 45,
+			"ability": "Huge Power",
+			"item": "Silk Scarf",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Swords Dance",
+                "Giga Impact",
+                "Ice Punch",
+				"Earthquake"
+            ]
+        },
+		"Team Flare Aliana [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Huge Power",
+			"item": "Choice Scarf",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Earthquake",
+                "Wild Charge",
+                "Ice Punch",
+				"Knock Off"
+            ]
+        },
+    },
+	"Pyroar": {
+        "Team Flare Aliana [Power Plant]": {
+            "level": 45,
+			"ability": "Competitive",
+			"item": "Chople Berry",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Flamethrower",
+                "Endeavor",
+                "Crunch",
+				"Will-O-Wisp"
+            ]
+        },
+		"Team Flare Aliana [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Competitive",
+			"item": "Power Herb",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Solar Beam",
+                "Hyper Voice",
+                "Dark Pulse",
+				"Flamethrower"
+            ]
+        },
+    },
+	"Klingklang": {
+        "Team Flare Aliana [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Motor Drive",
+			"item": "Air Balloon",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Shift Gear",
+                "Gear Grind",
+                "Wild Charge",
+				"Earthquake"
+            ]
+        },
+    },
+	"Heracross": {
+        "Team Flare Aliana [Power Plant]": {
+            "level": 46,
+			"ability": "Moxie",
+			"item": "Heracronite",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Arm Thrust",
+                "Pin Missile",
+                "Night Slash",
+				"Bullet Seed"
+            ]
+        },
+		"Team Flare Aliana [Lysandre Labs]": {
+            "level": 65,
+			"ability": "Moxie",
+			"item": "Heracronite",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Arm Thrust",
+                "Pin Missile",
+                "Knock Off",
+				"Rock Blast"
+            ]
+        },
+    },
+	"Heracross-Mega": {
+        "Team Flare Aliana [Power Plant]": {
+            "level": 46,
+			"ability": "Skill Link",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Arm Thrust",
+                "Pin Missile",
+                "Night Slash",
+				"Bullet Seed"
+            ]
+        },
+		"Team Flare Aliana [Lysandre Labs]": {
+            "level": 65,
+			"ability": "Skill Link",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Arm Thrust",
+                "Pin Missile",
+                "Knock Off",
+				"Rock Blast"
+            ]
+        },
+    },
+	"Liepard": {
+        "Team Flare Bryony [Poke Ball Factory]": {
+            "level": 51,
+			"ability": "Prankster",
+			"item": "Focus Sash",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Fake Out",
+                "Assurance",
+                "Psych Up",
+				"Swagger"
+            ]
+        },
+		"Team Flare Bryony [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Prankster",
+			"item": "Focus Sash",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Fake Out",
+                "Nasty Plot",
+                "Dark Pulse",
+				"Copycat"
+            ]
+        },
+    },
+	"Bisharp": {
+        "Team Flare Bryony [Poke Ball Factory]": {
+            "level": 51,
+			"ability": "Defiant",
+			"item": "Air Balloon",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Sucker Punch",
+                "Iron Head",
+                "Low Kick",
+				"Protect"
+            ]
+        },
+		"Team Flare Bryony [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Defiant",
+			"item": "Choice Scarf",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Knock Off",
+                "Iron Head",
+                "Low Kick",
+				"Stone Edge"
+            ]
+        },
+    },
+	"Chandelure": {
+        "Team Flare Bryony [Poke Ball Factory]": {
+            "level": 51,
+			"ability": "Flash Fire",
+			"item": "Sitrus Berry",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Shadow Ball",
+                "Heat Wave",
+                "Protect",
+				"Energy Ball"
+            ]
+        },
+		"Team Flare Bryony [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Flash Fire",
+			"item": "Salac Berry",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Fire Blast",
+                "Shadow Ball",
+                "Energy Ball",
+				"Endure"
+            ]
+        },
+    },
+	"Haxorus": {
+        "Team Flare Bryony [Poke Ball Factory]": {
+            "level": 51,
+			"ability": "Mold Breaker",
+			"item": "Life Orb",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Dragon Claw",
+                "Low Kick",
+                "Rock Slide",
+				"Poison Jab"
+            ]
+        },
+		"Team Flare Bryony [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Mold Breaker",
+			"item": "Life Orb",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Dragon Dance",
+                "Earthquake",
+                "Iron Tail",
+				"Outrage"
+            ]
+        },
+    },
+	"Luxray": {
+        "Team Flare Bryony [Poke Ball Factory]": {
+            "level": 51,
+			"ability": "Intimidate",
+			"item": "Shuca Berry",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Super Fang",
+                "Thunder Wave",
+                "Wild Charge",
+				"Ice Fang"
+            ]
+        },
+		"Team Flare Bryony [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Strong Jaw",
+			"item": "Life Orb",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Volt Tackle",
+                "Crunch",
+                "Fire Fang",
+				"Ice Fang"
+            ]
+        },
+    },
+	"Pinsir": {
+        "Team Flare Bryony [Poke Ball Factory]": {
+            "level": 53,
+			"ability": "Moxie",
+			"item": "Pinsirite",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Quick Attack",
+                "Double-Edge",
+                "Close Combat",
+				"Rock Slide"
+            ]
+        },
+		"Team Flare Bryony [Lysandre Labs]": {
+            "level": 65,
+			"ability": "Moxie",
+			"item": "Pinsirite",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Earthquake",
+                "Quick Attack",
+                "Double Edge",
+				"Stone Edge"
+            ]
+        },
+    },
+	"Pinsir-Mega": {
+        "Team Flare Bryony [Poke Ball Factory]": {
+            "level": 53,
+			"ability": "Aerilate",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Quick Attack",
+                "Double-Edge",
+                "Close Combat",
+				"Rock Slide"
+            ]
+        },
+		"Team Flare Bryony [Lysandre Labs]": {
+            "level": 65,
+			"ability": "Aerilate",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Earthquake",
+                "Quick Attack",
+                "Double Edge",
+				"Stone Edge"
+            ]
+        },
+    },
+	"Doublade": {
+        "Team Flare Celosia [Poke Ball Factory]": {
+            "level": 51,
+			"ability": "No Guard",
+			"item": "Eviolite",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Wide Guard",
+                "Sacred Sword",
+                "Shadow Claw",
+				"Gyro Ball"
+            ]
+        },
+    },
+	"Aegislash": {
+        "Team Flare Celosia [Lysandre]": {
+            "level": 63,
+			"ability": "Stance Change",
+			"item": "Weakness Policy",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Autotomize",
+                "Shadow Ball",
+                "Flash Cannon",
+				"King's Shield"
+            ]
+        },
+    },
+	"Drapion": {
+        "Team Flare Celosia [Poke Ball Factory]": {
+            "level": 51,
+			"ability": "Sniper",
+			"item": "Scope Lens",
+			"nature": "Jolly",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Aqua Tail",
+                "Night Slash",
+                "Cross Poison",
+				"Rock Slide"
+            ]
+        },
+		"Team Flare Celosia [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Sniper",
+			"item": "Scope Lens",
+			"nature": "Jolly",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Aqua Tail",
+                "Night Slash",
+                "Cross Poison",
+				"Rock Slide"
+            ]
+        },
+    },
+	"Hydreigon": {
+        "Team Flare Celosia [Poke Ball Factory]": {
+            "level": 51,
+			"ability": "Levitate",
+			"item": "Roseli Berry",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Dark Pulse",
+                "Flamethrower",
+                "Dragon Pulse",
+				"Flash Cannon"
+            ]
+        },
+		"Team Flare Celosia [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Levitate",
+			"item": "Life Orb",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "U-Turn",
+                "Fire Blast",
+                "Dragon Pulse",
+				"Surf"
+            ]
+        },
+    },
+	"Magmortar": {
+        "Team Flare Celosia [Poke Ball Factory]": {
+            "level": 51,
+			"ability": "Vital Spirit",
+			"item": "Air Balloon",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Heat Wave",
+                "Thunderbolt",
+                "Psychic",
+				"Will-O-Wisp"
+            ]
+        },
+		"Team Flare Celosia [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Mega Launcher",
+			"item": "Air Balloon",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Fire Blast",
+                "Thunderbolt",
+                "Dark Pulse",
+				"Aura Sphere"
+            ]
+        },
+    },
+	"Toxicroak": {
+        "Team Flare Celosia [Poke Ball Factory]": {
+            "level": 51,
+			"ability": "Poison Touch",
+			"item": "Life Orb",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Fake Out",
+                "Quick Guard",
+                "Gunk Shot",
+				"Drain Punch"
+            ]
+        },
+		"Team Flare Celosia [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Poison Touch",
+			"item": "Wide Lens",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Sucker Punch",
+                "Ice Punch",
+                "Gunk Shot",
+				"Cross Chop"
+            ]
+        },
+    },
+	"Manectric": {
+        "Team Flare Celosia [Poke Ball Factory]": {
+            "level": 53,
+			"ability": "Lightning Rod",
+			"item": "Manectite",
+			"nature": "Timid",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Thunderbolt",
+                "Flamethrower",
+                "Ice Fang",
+				"Light Screen"
+            ]
+        },
+		"Team Flare Celosia [Lysandre Labs]": {
+            "level": 65,
+			"ability": "Lightning Rod",
+			"item": "Manectite",
+			"nature": "Timid",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Thunderbolt",
+                "Flamethrower",
+                "Signal Beam",
+				"Charge Beam"
+            ]
+        },
+    },
+	"Manectric-Mega": {
+        "Team Flare Celosia [Poke Ball Factory]": {
+            "level": 53,
+			"ability": "Intimidate",
+			"nature": "Timid",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Thunderbolt",
+                "Flamethrower",
+                "Ice Fang",
+				"Light Screen"
+            ]
+        },
+		"Team Flare Celosia [Lysandre Labs]": {
+            "level": 65,
+			"ability": "Intimidate",
+			"nature": "Timid",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Thunderbolt",
+                "Flamethrower",
+                "Signal Beam",
+				"Charge Beam"
+            ]
+        },
+    },
+	"Weavile": {
+        "Team Flare Mable [Frost Cavern]": {
+            "level": 58,
+			"ability": "Technician",
+			"item": "Life Orb",
+			"nature": "Jolly",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Icicle Crash",
+                "Bite",
+                "Low Kick",
+				"Poison Jab"
+            ]
+        },
+		"Team Flare Mable [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Technician",
+			"item": "Focus Sash",
+			"nature": "Jolly",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Icicle Spear",
+                "Bite",
+                "Counter",
+				"Low Kick"
+            ]
+        },
+    },
+	"Electivire": {
+        "Team Flare Mable [Frost Cavern]": {
+            "level": 58,
+			"ability": "Motor Drive",
+			"item": "Expert Belt",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Wild Charge",
+                "Close Combat",
+                "Ice Punch",
+				"Flamethrower"
+            ]
+        },
+		"Team Flare Mable [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Motor Drive",
+			"item": "Expert Belt",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Volt Tackle",
+                "Close Combat",
+                "Ice Punch",
+				"Earthquake"
+            ]
+        },
+    },
+	"Mandibuzz": {
+        "Team Flare Mable [Frost Cavern]": {
+            "level": 58,
+			"ability": "Overcoat",
+			"item": "Leftovers",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Brave Bird",
+                "Foul Play",
+                "Roost",
+				"Toxic"
+            ]
+        },
+		"Team Flare Mable [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Weak Armor",
+			"item": "Weakness Policy",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Nasty Plot",
+                "Roost",
+                "Air Slash",
+				"Dark Pulse"
+            ]
+        },
+    },
+	"Infernape": {
+        "Team Flare Mable [Frost Cavern]": {
+            "level": 58,
+			"ability": "Iron Fist",
+			"item": "Passho Berry",
+			"nature": "Jolly",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Close Combat",
+                "Overheat",
+                "Stone Edge",
+				"Thunder Punch"
+            ]
+        },
+		"Team Flare Mable [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Iron Fist",
+			"item": "Life Orb",
+			"nature": "Jolly",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Close Combat",
+                "Overheat",
+                "U-Turn",
+				"Thunder Punch"
+            ]
+        },
+    },
+	"Dugtrio": {
+        "Team Flare Mable [Frost Cavern]": {
+            "level": 58,
+			"ability": "Arena Trap",
+			"item": "Heat Rock",
+			"nature": "Jolly",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Sunny Day",
+				"Memento"
+            ]
+        },
+		"Team Flare Mable [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Arena Trap",
+			"item": "Heat Rock",
+			"nature": "Jolly",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Sunny Day",
+				"Memento"
+            ]
+        },
+    },
+	"Houndoom": {
+        "Team Flare Mable [Frost Cavern]": {
+            "level": 60,
+			"ability": "Flash Fire",
+			"item": "Houndoominite",
+			"nature": "Timid",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Flamethrower",
+                "Dark Pulse",
+                "Sludge Bomb",
+				"Hidden Power"
+            ]
+        },
+		"Team Flare Mable [Lysandre Labs]": {
+            "level": 65,
+			"ability": "Flash Fire",
+			"item": "Houndoominite",
+			"nature": "Timid",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Fire Blast",
+                "Dark Pulse",
+                "Sludge Bomb",
+				"Nasty Plot"
+            ]
+        },
+    },
+	"Houndoom-Mega": {
+        "Team Flare Mable [Frost Cavern]": {
+            "level": 60,
+			"ability": "Solar Power",
+			"nature": "Timid",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Flamethrower",
+                "Dark Pulse",
+                "Sludge Bomb",
+				"Hidden Power"
+            ]
+        },
+		"Team Flare Mable [Lysandre Labs]": {
+            "level": 65,
+			"ability": "Solar Power",
+			"nature": "Timid",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Fire Blast",
+                "Dark Pulse",
+                "Sludge Bomb",
+				"Nasty Plot"
+            ]
+        },
+    },
+	"Darmanitan": {
+        "Team Flare Xerosic [Lysandre Labs]": {
+            "level": 64,
+			"ability": "Sheer Force",
+			"item": "Choice Scarf",
+			"nature": "Jolly",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Flare Blitz",
+                "Earthquake",
+                "Rock Slide",
+				"U-Turn"
+            ]
+        },
+    },
+	"Gengar": {
+        "Team Flare Xerosic [Lysandre Labs]": {
+            "level": 64,
+			"ability": "Levitate",
+			"item": "Black Sludge",
+			"nature": "Timid",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Shadow Ball",
+                "Sludge Wave",
+                "Hypnosis",
+				"Focus Blast"
+            ]
+        },
+    },
+	"Malamar": {
+        "Team Flare Xerosic [Lysandre Labs]": {
+            "level": 64,
+			"ability": "Contrary",
+			"item": "Leftovers",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Superpower",
+                "Psycho Cut",
+                "Knock Off",
+				"Sucker Punch"
+            ]
+        },
+    },
+	"Scizor": {
+        "Team Flare Xerosic [Lysandre Labs]": {
+            "level": 66,
+			"ability": "Light Metal",
+			"item": "Scizorite",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Bullet Punch",
+                "Bug Bite",
+                "Strength",
+				"Swords Dance"
+            ]
+        },
+    },
+	"Scizor-Mega": {
+        "Team Flare Xerosic [Lysandre Labs]": {
+            "level": 66,
+			"ability": "Technician",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Bullet Punch",
+                "Bug Bite",
+                "Strength",
+				"Swords Dance"
+            ]
+        },
+    },
+	"Mienshao": {
+        "Team Flare Lysandre [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Regenerator",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Swords Dance",
+                "High Jump Kick",
+                "Acrobatics",
+				"Baton Pass"
+            ]
+        },
+		"Team Flare Lysandre [Team Flare HQ 1]": {
+            "level": 65,
+			"ability": "Regenerator",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Swords Dance",
+                "High Jump Kick",
+                "Stone Edge",
+				"Baton Pass"
+            ]
+        },
+		"Team Flare Lysandre [Team Flare HQ 2]": {
+            "level": 67,
+			"ability": "Reckless",
+			"item": "Focus Sash",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Swords Dance",
+                "High Jump Kick",
+                "Poison Jab",
+				"Baton Pass"
+            ]
+        },
+    },
+	"Honchkrow": {
+        "Team Flare Lysandre [Lysandre Labs]": {
+            "level": 63,
+			"ability": "Moxie",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Sucker Punch",
+                "Brave Bird",
+                "Roost",
+				"Substitute"
+            ]
+        },
+		"Team Flare Lysandre [Team Flare HQ 1]": {
+            "level": 65,
+			"ability": "Moxie",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Sucker Punch",
+                "Brave Bird",
+                "Roost",
+				"Superpower"
+            ]
+        },
+		"Team Flare Lysandre [Team Flare HQ 2]": {
+            "level": 67,
+			"ability": "Moxie",
+			"item": "Choice Scarf",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Brave Bird",
+                "Night Slash",
+                "Heat Wave",
+				"Superpower"
+            ]
+        },
+    },
+	"Garchomp": {
+        "Team Flare Lysandre [Team Flare HQ 1]": {
+            "level": 65,
+			"ability": "Rough Skin",
+			"nature": "Jolly",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Earthquake",
+                "Poison Jab",
+                "Fire Blast",
+				"Dragon Rush"
+            ]
+        },
+		"Team Flare Lysandre [Team Flare HQ 2]": {
+            "level": 67,
+			"ability": "Rough Skin",
+			"item": "Rocky Helmet",
+			"nature": "Jolly",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Earthquake",
+                "Stone Edge",
+                "Fire Blast",
+				"Dragon Rush"
+            ]
+        },
+    },
+	"Pyroar": {
+        "Team Flare Lysandre [Lysandre Labs]": {
+            "level": 64,
+			"ability": "Rivalry",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Hyper Voice",
+                "Fire Blast",
+                "Dark Pulse",
+				"Will-O-Wisp"
+            ]
+        },
+		"Team Flare Lysandre [Team Flare HQ 1]": {
+            "level": 65,
+			"ability": "Rivalry",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Hyper Voice",
+                "Fire Blast",
+                "Dark Pulse",
+				"Wild Charge"
+            ]
+        },
+		"Team Flare Lysandre [Team Flare HQ 2]": {
+            "level": 68,
+			"ability": "Rivalry",
+			"item": "Life Orb",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Hyper Voice",
+                "Fire Blast",
+                "Sunny Day",
+				"Solar Beam"
+            ]
+        },
+    },
+	"Volcarona": {
+        "Team Flare Lysandre [Team Flare HQ 2]": {
+            "level": 67,
+			"ability": "Flame Body",
+			"item": "Leftovers",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Fiery Dance",
+                "Bug Buzz",
+                "Quiver Dance",
+				"Psychic"
+            ]
+        },
+    },
+	"Gyarados": {
+        "Team Flare Lysandre [Lysandre Labs]": {
+            "level": 65,
+			"ability": "Intimidate",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Aqua Tail",
+                "Earthquake",
+                "Iron Head",
+				"Crunch"
+            ]
+        },
+		"Team Flare Lysandre [Team Flare HQ 1]": {
+            "level": 65,
+			"ability": "Intimidate",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Aqua Tail",
+                "Earthquake",
+                "Iron Head",
+				"Crunch"
+            ]
+        },
+		"Team Flare Lysandre [Team Flare HQ 2]": {
+            "level": 68,
+			"ability": "Intimidate",
+			"item": "Gyaradosite",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Waterfall",
+                "Earthquake",
+                "Crunch",
+				"Dragon Dance"
+            ]
+        },
+    },
+	"Gyarados-Mega": {
+		"Team Flare Lysandre [Team Flare HQ 2]": {
+            "level": 68,
+			"ability": "Mold Breaker",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Waterfall",
+                "Earthquake",
+                "Crunch",
+				"Dragon Dance"
+            ]
+        },
     },
 
 };
