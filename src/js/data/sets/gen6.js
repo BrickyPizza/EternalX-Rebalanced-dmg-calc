@@ -1330,6 +1330,19 @@ var SETDEX_XY = {
 				"Endure"
             ]
         },
+        "Elite Four Malva": {
+            "level": 80,
+			"ability": "Flame Body",
+			"item": "Air Balloon",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Heat Wave",
+                "Solar Beam",
+                "Shadow Ball",
+				"Protect"
+            ]
+        },
     },
 	"Haxorus": {
         "Team Flare Bryony [Poke Ball Factory]": {
@@ -2140,6 +2153,94 @@ var SETDEX_XY = {
                 "Earthquake",
                 "Crunch",
 				"Dragon Dance"
+            ]
+        },
+    },
+    "Ninetales": {
+        "Elite Four Malva": {
+            "level": 80,
+			"ability": "Drought",
+			"item": "Heat Rock",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Heat Wave",
+                "Solar Beam",
+                "Will-O-Wisp",
+				"Dark Pulse"
+            ]
+        },
+    },
+	"Typhlosion": {
+        "Elite Four Malva": {
+            "level": 80,
+			"ability": "Flash Fire",
+			"item": "Choice Scarf",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Eruption",
+                "Focus Blast",
+				"Earth Power"
+            ]
+        },
+    },
+	"Talonflame": {
+        "Elite Four Malva": {
+            "level": 82,
+			"ability": "Gale Wings",
+			"item": "White Herb",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Brave Bird",
+                "Overheat",
+                "Roost",
+				"Will-O-Wisp"
+            ]
+        },
+    },
+	"Heatran": {
+        "Elite Four Malva": {
+            "level": 80,
+			"ability": "Flash Fire",
+			"item": "Life Orb",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Heat Wave",
+                "Rock Slide",
+                "Dragon Pulse",
+				"Earth Power"
+            ]
+        },
+    },
+	"Charizard": {
+        "Elite Four Malva": {
+            "level": 82,
+			"ability": "Blaze",
+			"item": "Charizardite Y",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Heat Wave",
+                "Solar Beam",
+                "Air Slash",
+				"Dragon Pulse"
+            ]
+        },
+    },
+	"Charizard-Mega-Y": {
+        "Elite Four Malva": {
+            "level": 82,
+			"ability": "Drought",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Heat Wave",
+                "Solar Beam",
+                "Air Slash",
+				"Dragon Pulse"
             ]
         },
     },
