@@ -498,6 +498,19 @@ var SETDEX_XY = {
                 "Iron Head",
 				"Stealth Rock"
             ]
+        },
+		"Elite Four Wikstrom": {
+            "level": 80,
+			"ability": "Iron Barbs",
+			"item": "Rocky Helmet",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Power Whip",
+                "Bulldoze",
+                "Protect",
+				"Leech Seed"
+            ]
         }
     },
 	"Venusaur": {
@@ -519,7 +532,6 @@ var SETDEX_XY = {
         "Leader Ramos [Gym 4]": {
             "level": 42,
 			"ability": "Thick Fat",
-			"item": "Venusaurite",
 			"nature": "Quiet",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
             "moves": [
@@ -557,6 +569,19 @@ var SETDEX_XY = {
                 "Giga Drain",
                 "Ice Beam",
 				"Hydro Pump"
+            ]
+        },
+		"Elite Four Siebold": {
+            "level": 80,
+			"ability": "Swift Swim",
+			"item": "Absorb Bulb",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Surf",
+                "Energy Ball",
+                "Ice Beam",
+				"Focus Blast"
             ]
         }
     },
@@ -779,7 +804,20 @@ var SETDEX_XY = {
                 "Spikes",
 				"Dazzling Gleam"
             ]
-        }
+        },
+		"Elite Four Wikstrom": {
+            "level": 80,
+			"ability": "Prankster",
+			"item": "Air Balloon",
+			"nature": "Bold",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Swagger",
+                "Foul Play",
+                "Thunder Wave",
+				"Dazzling Gleam"
+            ]
+        },
     },
 	"Azumarill": {
         "Leader Valerie [Gym 6]": {
@@ -860,7 +898,6 @@ var SETDEX_XY = {
         "Leader Valerie [Gym 6]": {
             "level": 52,
 			"ability": "Huge Power",
-			"item": "Mawilite",
 			"nature": "Adamant",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
             "moves": [
@@ -950,7 +987,6 @@ var SETDEX_XY = {
         "Leader Olympia [Gym 7]": {
             "level": 65,
 			"ability": "Pure Power",
-			"item": "Medichamite",
 			"nature": "Adamant",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
             "moves": [
@@ -1055,7 +1091,6 @@ var SETDEX_XY = {
         "Leader Wulfric [Gym 8]": {
             "level": 78,
 			"ability": "Snow Warning",
-			"item": "Abomasite",
 			"nature": "Modest",
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
             "moves": [
@@ -1483,6 +1518,19 @@ var SETDEX_XY = {
 				"King's Shield"
             ]
         },
+		"Elite Four Wikstrom": {
+            "level": 82,
+			"ability": "Stance Change",
+			"item": "Weakness Policy",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Sacred Sword",
+                "Shadow Ball",
+                "Flash Cannon",
+				"King's Shield"
+            ]
+        },
     },
     "Aegislash-Both": {
         "Team Flare Celosia [Lysandre]": {
@@ -1498,6 +1546,19 @@ var SETDEX_XY = {
 				"King's Shield"
             ]
         },
+		"Elite Four Wikstrom": {
+            "level": 82,
+			"ability": "Stance Change",
+			"item": "Weakness Policy",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Sacred Sword",
+                "Shadow Ball",
+                "Flash Cannon",
+				"King's Shield"
+            ]
+        },
     },
     "Aegislash-Shield": {
         "Team Flare Celosia [Lysandre]": {
@@ -1508,6 +1569,19 @@ var SETDEX_XY = {
 			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
             "moves": [
                 "Autotomize",
+                "Shadow Ball",
+                "Flash Cannon",
+				"King's Shield"
+            ]
+        },
+		"Elite Four Wikstrom": {
+            "level": 82,
+			"ability": "Stance Change",
+			"item": "Weakness Policy",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Sacred Sword",
                 "Shadow Ball",
                 "Flash Cannon",
 				"King's Shield"
@@ -1567,6 +1641,19 @@ var SETDEX_XY = {
                 "Fire Blast",
                 "Dragon Pulse",
 				"Surf"
+            ]
+        },
+		"Elite Four Drasna": {
+            "level": 80,
+			"ability": "Levitate",
+			"item": "Choice Scarf",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Dragon Pulse",
+                "Dark Pulse",
+                "Fire Blast",
+				"U-Turn"
             ]
         },
     },
@@ -2141,6 +2228,19 @@ var SETDEX_XY = {
 				"Dragon Dance"
             ]
         },
+		"Elite Four Siebold": {
+            "level": 80,
+			"ability": "Intimidate",
+			"item": "Wacan Berry",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Waterfall",
+                "Bounce",
+                "Protect",
+				"Dragon Dance"
+            ]
+        },
     },
 	"Gyarados-Mega": {
 		"Team Flare Lysandre [Team Flare HQ 2]": {
@@ -2229,6 +2329,19 @@ var SETDEX_XY = {
 				"Dragon Pulse"
             ]
         },
+		"Elite Four Drasna": {
+            "level": 82,
+			"ability": "Blaze",
+			"item": "Charizardite X",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Dragon Dance",
+                "Dragon Claw",
+                "Flare Blitz",
+				"Brick Break"
+            ]
+        },
     },
 	"Charizard-Mega-Y": {
         "Elite Four Malva": {
@@ -2241,6 +2354,317 @@ var SETDEX_XY = {
                 "Solar Beam",
                 "Air Slash",
 				"Dragon Pulse"
+            ]
+        },
+    },
+	"Charizard-Mega-X": {
+        "Elite Four Drasna": {
+            "level": 82,
+			"ability": "Tough Claws",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Dragon Dance",
+                "Dragon Claw",
+                "Flare Blitz",
+				"Brick Break"
+            ]
+        },
+    },
+	"Kingdra": {
+        "Elite Four Siebold": {
+            "level": 80,
+			"ability": "Swift Swim",
+			"item": "Life Orb",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Muddy Water",
+                "Ice Beam",
+                "Dragon Pulse",
+				"Flash Cannon"
+            ]
+        },
+    },
+	"Politoed": {
+        "Elite Four Siebold": {
+            "level": 80,
+			"ability": "Drizzle",
+			"item": "Damp Rock",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Surf",
+                "Psychic",
+                "Rain Dance",
+				"Protect"
+            ]
+        },
+    },
+	"Barbaracle": {
+        "Elite Four Siebold": {
+            "level": 82,
+			"ability": "Tough Claws",
+			"item": "White Herb",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Shell Smash",
+                "Rock Slide",
+                "Razor Shell",
+				"Poison Jab"
+            ]
+        },
+    },
+	"Blastoise": {
+        "Elite Four Siebold": {
+            "level": 82,
+			"ability": "Rain Dish",
+			"item": "Blastoisinite",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Dark Pulse",
+                "Aura Sphere",
+                "Dragon Pulse",
+				"Muddy Water"
+            ]
+        },
+    },
+	"Blastoise-Mega": {
+        "Elite Four Siebold": {
+            "level": 82,
+			"ability": "Mega Launcher",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Dark Pulse",
+                "Aura Sphere",
+                "Dragon Pulse",
+				"Muddy Water"
+            ]
+        },
+    },
+	"Salamence": {
+        "Elite Four Drasna": {
+            "level": 80,
+			"ability": "Moxie",
+			"item": "Roseli Berry",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Outrage",
+                "Earthquake",
+                "Iron Tail",
+				"Fire Blast"
+            ]
+        },
+    },
+	"Latias": {
+        "Elite Four Drasna": {
+            "level": 80,
+			"ability": "Levitate",
+			"item": "Soul Dew",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Calm Mind",
+                "Roost",
+                "Dragon Pulse",
+				"Psyshock"
+            ]
+        },
+    },
+	"Noivern": {
+        "Elite Four Drasna": {
+            "level": 82,
+			"ability": "Infiltrator",
+			"item": "Focus Sash",
+			"nature": "Timid",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Air Slash",
+                "Dragon Pulse",
+                "Flamethrower",
+				"Nasty Plot"
+            ]
+        },
+    },
+	"Dragalge": {
+        "Elite Four Drasna": {
+            "level": 80,
+			"ability": "Adaptability",
+			"item": "Assault Vest",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Gunk Shot",
+                "Draco Meteor",
+                "Scald",
+				"Focus Blast"
+            ]
+        },
+    },
+	"Empoleon": {
+        "Elite Four Wikstrom": {
+            "level": 80,
+			"ability": "Petaya Berry",
+			"item": "Torrent",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Agility",
+                "Surf",
+                "Ice Beam",
+				"Grass Knot"
+            ]
+        },
+    },
+	"Escavalier": {
+        "Elite Four Wikstrom": {
+            "level": 80,
+			"ability": "Overcoat",
+			"item": "Leftovers",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Swords Dance",
+                "Megahorn",
+                "Iron Head",
+				"Drill Run"
+            ]
+        },
+    },
+	"Aggron": {
+        "Elite Four Wikstrom": {
+            "level": 82,
+			"ability": "Sturdy",
+			"item": "Aggronite",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Heavy Slam",
+                "Earthquake",
+                "Stone Edge",
+				"Ice Punch"
+            ]
+        },
+    },
+	"Aggron-Mega": {
+        "Elite Four Wikstrom": {
+            "level": 82,
+			"ability": "Filter",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [	
+                "Heavy Slam",
+                "Earthquake",
+                "Stone Edge",
+				"Ice Punch"
+            ]
+        },
+    },
+	"Forretress": {
+        "Champion Diantha": {
+            "level": 85,
+			"ability": "Sturdy",
+			"item": "Red Card",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Sticky Web",
+                "Earthquake",
+                "Counter",
+				"Stealth Rock"
+            ]
+        },
+    },
+	"Blaziken": {
+        "Champion Diantha": {
+            "level": 85,
+			"ability": "Speed Boost",
+			"item": "Lum Berry",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "High Jump Kick",
+                "Fire Blast",
+                "Stone Edge",
+				"Work Up"
+            ]
+        },
+    },
+	"Milotic": {
+        "Champion Diantha": {
+            "level": 85,
+			"ability": "Multiscale",
+			"item": "Leftovers",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Scald",
+                "Recover",
+                "Dragon Tail",
+				"Ice Beam"
+            ]
+        },
+    },
+	"Gourgeist-Super": {
+        "Champion Diantha": {
+            "level": 85,
+			"ability": "Flash Fire",
+			"item": "Life Orb",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Shadow Ball",
+                "Giga Drain",
+                "Fire Blast",
+				"Psychic"
+            ]
+        },
+    },
+	"Tyranitar": {
+        "Champion Diantha": {
+            "level": 86,
+			"ability": "Sand Stream",
+			"item": "Chople Berry",
+			"nature": "Adamant",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Stone Edge",
+                "Earthquake",
+                "Crunch",
+				"Dragon Dance"
+            ]
+        },
+    },
+	"Gardevoir": {
+        "Champion Diantha": {
+            "level": 87,
+			"ability": "Trace",
+			"item": "Gardevoirite",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Hyper Voice",
+                "Psyshock",
+                "Shadow Ball",
+				"Focus Blast"
+            ]
+        },
+    },
+	"Gardevoir-Mega": {
+        "Champion Diantha": {
+            "level": 87,
+			"ability": "Pixilate",
+			"nature": "Modest",
+			"ivs": {"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+            "moves": [
+                "Hyper Voice",
+                "Psyshock",
+                "Shadow Ball",
+				"Focus Blast"
             ]
         },
     },
